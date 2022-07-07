@@ -1,5 +1,5 @@
 #  SysTick_timer_project
-## Tiva C - TM4C1230H6P Project
+## ARM-CORTEX M4 Project
 
 
 ** we used TM4C123H6P discovery board from Texas İnstrument and Keil uVision ide **
